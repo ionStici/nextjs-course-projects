@@ -1,11 +1,6 @@
 import MainHeader from "@/components/main-header/main-header";
 import "./globals.css";
 
-// Course: 720m / 60m = 12h
-// 1: 240m / remained: 37m
-
-// Overall Remained: 720 - 240 = 480m
-
 export const metadata = {
   title: "NextLevel Food",
   description: "Delicious meals, shared by a food-loving community.",
