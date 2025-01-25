@@ -1,0 +1,20 @@
+li {
+  display: flex;
+  gap: 20px;
+}
+
+button {
+  color: white;
+}
+
+.isCompleted {
+  background-color: green;
+}
+
+.isNotCompleted {
+  background-color: blue;
+}
+
+.delete {
+  background-color: red;
+}
